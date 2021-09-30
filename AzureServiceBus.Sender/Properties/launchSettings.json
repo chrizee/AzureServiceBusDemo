@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "AzureServiceBus.Sender": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
